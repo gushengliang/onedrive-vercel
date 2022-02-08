@@ -3,7 +3,7 @@
   "obfuscatedClientSecret": "U2FsdGVkX1+XoI0zlpdnpvLscKG76p1KScGUydhbOUEreAfPApVVUzfuA0WH2i0EiunfgkpLUFCME1EVtp7iMw==",
   "redirectUri": "http://localhost:3000",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
-  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
+  "driveApi": "https://graph.microsoft.com/v1.0/sites/1g2yhs.sharepoint.com/sites/pan2",
   "scope": "user.read files.read.all offline_access",
   "directLinkRegex": "public[.].*[.]files[.]1drv[.]com"
 }
